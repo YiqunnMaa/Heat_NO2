@@ -1,13 +1,21 @@
-R code for the manuscript entitled "Spatial heterogeneity in synergistic effects of extreme heat and NO2 exposures on cardiorespiratory hospitalizations in California", by Yiqun Ma, Chen Chen, Rosana Aguilera, Alexander Gershunov, Michael Jerrett, Rachel Connolly, Miriam E. Marlier, and Tarik Benmarhnia
+# Spatial heterogeneity in synergistic effects of extreme heat and NO2 exposures on cardiorespiratory hospitalizations in California
 
-System environment:
-R version 4.3.1
+## Authors
+
+- Yiqun Ma, Chen Chen, Rosana Aguilera, Alexander Gershunov, Michael Jerrett, Rachel Connolly, Miriam E. Marlier, and Tarik Benmarhnia
+
+## System environment
+
+This analysis was conducted using **R version 4.3.1**.  
 Platform: x86_64-w64-mingw32/x64 (64-bit)
-running in an English locale
 
-Data:
+## Data
+
 The provided data was a simulated dataset for 100 ZCTAs, only for demo purpose and without any sensitive information.
 
-R code:
+## R code
+
 All required R packaged were listed in the R script
 The expected run time is typically a couple of hours, depending on the computational resources
+
+---
